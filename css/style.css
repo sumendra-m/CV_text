@@ -1,5 +1,5 @@
 body {
-  font-size: 14px;
+  font-size: 10px;
   background-color: darkgrey;
   text-align: justify;
 }
@@ -29,7 +29,7 @@ h2 {
 div {
   margin: 5vw 10vw;
   background-color: white;
-  padding: 50px;
+  padding: 20px;
   border-radius: 30px;
 }
 
